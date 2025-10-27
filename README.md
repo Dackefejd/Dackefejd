@@ -1,87 +1,150 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<div align="center">
+  <img height="200" src="https://i.imgur.com/sM8df0x.png"  />
+</div>
 
-# 👋 Hello, I'm Andreas!
+###
 
-I'm a tech enthusiast based in Stockholm, Sweden, passionate about programming and backend development.
+<p align="left">I'm a tech enthusiast based in Stockholm, Sweden, passionate about programming and backend development.</p>
 
-With 6 years of experience working in the telecom industry — focusing on system integration, REST APIs, SQL databases, and fiber network management — I've gained valuable technical insights that fuel my passion for coding.
+###
 
-Today, I'm actively growing my skills in **Python** and **JavaScript**, and recently I've started exploring **Flutter**.  
-My main focus is backend development, where I enjoy designing APIs, working with databases, and building practical, real-world applications.
+<h2 align="left">About me</h2>
 
-While I'm not a professional developer (yet), I love applying everything I've learned to create projects that are both useful and fun — combining IT, entertainment, and a lot of curiosity.
+###
 
-> One day, I hope to turn my passion for coding into a full-time career.  
-> Until then, I'm here to learn, build, and share the journey.
+<p align="left">With six years of experience in the telecom industry, focusing on system integration, REST APIs, SQL databases and fiber management, I have developed valuable technical skills that drive my passion for programming.<br><br>I am currently further developing my skills in Python and JavaScript and have also started exploring Flutter.<br><br>My main interest lies in backend development, where I enjoy designing APIs, working with databases and creating practical, real-world applications.</p>
 
----
+###
 
-## 🚀 I’m currently working on
+<h2 align="left">Tech Stack (Technology I'm passionate about)</h2>
 
-I've been active on GitHub mostly through private repositories.  
-Now I'm revisiting my earlier projects, making improvements, and sharing them publicly — starting fresh, but building on past ideas.
+###
 
----
+<h4 align="left">Programming Languages</h4>
 
-## 💻 What I Enjoy in Programming
+###
 
-### Python
-I enjoy working with ETL functions, backend development with Django, and building automations.  
-I'm also interested in diving deeper into **FastAPI** and continuing to explore **Streamlit** for quick application development.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
 
-### JavaScript
-I like creating desktop applications using **Electron** and building backend services with **Node.js**.  
-I'm also interested in learning more about **TypeScript**, **Deno**, and **Bun** to expand my JavaScript backend skills.
+###
 
-### Frontend
-I've experimented a bit with **React** and **Vue**, but my true passion lies more in backend development.
+<h4 align="left">Backend/Framework & Frontend</h4>
 
-### Mobile Applications
-Recently, I've developed an interest in mobile app development and have started exploring **Flutter**.
+###
 
-### AI and Machine Learning
-I'm curious about **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**, and I plan to start experimenting with tools like **Ollama** in the near future.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
-### Open Source
-I'm a big fan of open source and look forward to contributing to the community as I continue to grow my skills and experience.
+###
 
----
+<h4 align="left">Database and Devops</h4>
 
-## 🧠 Currently Learning
+###
 
-- Deepening my knowledge in **FastAPI** and **Streamlit** (Python frameworks)
-- Exploring **TypeScript**, **Deno**, and **Bun** for JavaScript backend development
-- Diving into **Flutter** for cross-platform mobile apps
-- Getting hands-on with **LLMs** and **RAG** concepts, experimenting with tools like **Ollama**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
 
----
+###
 
-## 🎯 Goals for 2025
+<h4 align="left">Data Visualization</h4>
 
-- 📚 Publish at least 3 public projects based on my earlier private work
-- 🚀 Make my first open-source contribution
-- 📱 Release a small mobile app using **Flutter**
-- 🤖 Build and deploy a prototype using **LLM** + **RAG** techniques
-- 🛠️ Get more comfortable with **TypeScript** and new backend runtimes like **Deno** and **Bun**
+###
 
----
+<div align="left">
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+</div>
 
+###
 
-## 📫 How to reach me
+<h4 align="left">Software</h4>
 
-- 📧 [Email](mailto:andreas.kolerud@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreas-kolerud/)
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
 
-### ⚔️ A small fun fact
+###
 
-The name "Dackefejd" is a nod to the historic Dacke War — a Swedish peasant uprising led by Nils Dacke in the 16th century.  
-Just like back then, I'm a firm believer in challenging the status quo — but this time, with code.
+<h4 align="left">Other</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+
+###
+
+## How to reach me
+<div align="left">
+  <a href="https://www.linkedin.com/in/andreas-kolerud/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"> Andreas Kolerud </img>
+  </a>
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"> @ Dackefejd </img>  
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"> andreas.kolerud@gmail.com </img>
+</div>
+
+###
